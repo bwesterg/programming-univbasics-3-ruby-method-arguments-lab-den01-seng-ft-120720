@@ -1,4 +1,4 @@
-puts "hello world"
+def add 2
 
 
 
