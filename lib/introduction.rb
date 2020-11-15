@@ -1,4 +1,5 @@
-def add 2
+def add_2(number)
+  
 
 
 
